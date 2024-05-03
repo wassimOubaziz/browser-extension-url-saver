@@ -20,6 +20,10 @@ This is a simple browser extension that allows users to save URLs for later refe
 4. Click the extension icon to save the URL of the current tab or manually input URLs in the provided input field.
 5. Double-click the extension icon to delete all saved URLs.
 
+## Demo
+
+You can view a demo of the extension [here](https://wassimoubaziz.github.io/browser-extension-url-saver/).
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
@@ -31,4 +35,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For any inquiries or feedback, you can reach out to me via [LinkedIn](https://www.linkedin.com/in/wassim-oubaziz/).
-
